@@ -10,6 +10,9 @@ DocDigest is a language model designed to simplify the consumption of textual in
 
 - **User-Friendly Interface:** DocDigest is designed with simplicity in mind. Users can easily input text and receive summarized text and audio outputs without the need for complex commands or setups.
 
+[**Run the app here**](https://huggingface.co/spaces/karandomguy/doc-digest)  
+[**Click here to download the model**](https://huggingface.co/spaces/karandomguy/doc-digest/resolve/main/DocDigest.pkl?download=true)
+
 ## Getting Started
 
 ### Installation
